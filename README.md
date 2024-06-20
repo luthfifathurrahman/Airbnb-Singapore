@@ -17,7 +17,7 @@ Assist a property owner in devising a strategy to optimize rental activities for
 ## Data Understanding
 - Data of Airbnb Transaction from January 1, 2018, to September 22, 2022
 - Data Source: DQLab
-- There are 3 datasets, which is:
+- There are 3 datasets, which are:
   - Listing data: 12 columns and 4161 rows
     - Unnamed: 0
     - id
